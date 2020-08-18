@@ -33,7 +33,7 @@ input[type="text"]:not(.browser-default):focus:not([readonly]) + label {
       rgba(33, 66, 80, 0.7),
       rgba(33, 66, 80, 0.6)
     ),
-    url(../media/imagen.8e1da65f.jpg);
+    url(../media/1.jpg);
   background-size: cover;
   background-position: 50%;
   background-repeat: no-repeat;
